@@ -114,4 +114,12 @@ src/
 ---
 
 ## 📱 Live Preview
+<img width="1478" height="588" alt="image" src="https://github.com/user-attachments/assets/c3820fcc-6cca-4d2b-8f1b-a6959a747d07" />
+<img width="1484" height="412" alt="image" src="https://github.com/user-attachments/assets/9ecc0d12-c725-4f4b-85db-a1896bae50e4" />
+<img width="1455" height="589" alt="image" src="https://github.com/user-attachments/assets/302d0ea9-82f0-40fb-b1d3-2ee730cc2883" />
+<img width="1451" height="754" alt="image" src="https://github.com/user-attachments/assets/0fac8659-9642-4ef5-8f40-b8558dfc93e2" />
+<img width="1468" height="757" alt="image" src="https://github.com/user-attachments/assets/63f55151-b08f-42ef-9a34-5eddf51ff6f0" />
+
+https://remigio96.github.io/PizzeriaMM_7_React_Router_II
+
 
